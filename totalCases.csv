@@ -1,5 +1,6 @@
-Date,Total cases(as of 4/5 at 12:00 pm),Total Hospitalizations,Total Deaths (as of 4/5 at 12:00 pm),TotalRecovered
-2020-04-05T20:54:57.732Z,521,138,8,69
-2020-04-06T04:00:00.000Z,543,149,10,82
-2020-04-07T04:00:00.000Z,561,160,12,98
-2020-04-08T04:00:00.000Z,603,173,12,113
+Date,Total cases(as of 4/5 at 12:00 pm),Total Hospitalizations,% Hospitalized,Total Deaths (as of 4/5 at 12:00 pm),TotalRecovered
+2020-04-05T20:54:57.732Z,521,138,null,8,69
+2020-04-06T04:00:00.000Z,543,149,null,10,82
+2020-04-07T04:00:00.000Z,561,160,null,12,98
+2020-04-08T04:00:00.000Z,603,173,null,12,113
+2020-04-09T04:00:00.000Z,641,186,29%,15,149

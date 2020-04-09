@@ -1,0 +1,16 @@
+{
+  "name": "washtenaw-covid-tracker",
+  "version": "1.0.0",
+  "description": "A COVID-19 dashboard for Washtenaw County in Michigan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Kenneally",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^5.3.6",
+    "moment": "^2.24.0",
+    "puppeteer": "^2.1.1"
+  }
+}

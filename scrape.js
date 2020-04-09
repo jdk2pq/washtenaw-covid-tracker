@@ -2,6 +2,7 @@ const puppeteer = require('puppeteer');
 const moment = require('moment');
 const stringify = require('csv-stringify');
 const fs = require('fs');
+const https = require('https');
 
 (async () => {
     const today = moment();
@@ -24,8 +25,8 @@ const fs = require('fs');
         return [
             updated,
             ...Array.from(document.querySelectorAll('.widgetBody table')).map((t) => {
-            return Array.from(t.tBodies[0].rows).map(r => [today, ...Array.from(r.cells).map((c) => c.textContent.trim())])
-        })];
+                return Array.from(t.tBodies[0].rows).map(r => [today, ...Array.from(r.cells).map((c) => c.textContent.trim())])
+            })];
     }, today, todayStr);
 
     if (shouldUpdate) {
@@ -44,6 +45,38 @@ const fs = require('fs');
         // stringify(byZipCodeTable, (err, output) => {
         //     return fs.appendFileSync("byZipCode.csv", output);
         // });
+
+
+        // Alternative way of pulling data from new ArcGIS maps:
+
+        const options = {
+            hostname: 'services2.arcgis.com',
+            path: '/xRI3cTw3hPVoEJP0/ArcGIS/rest/services/COVID_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=FID%20ASC&resultOffset=0&resultRecordCount=50&cacheHint=true&quantizationParameters=%7B%22mode%22%3A%22edit%22%7D',
+            method: 'GET'
+        }
+
+        let byZipCodeTable;
+        let str;
+        const callback = (response) => {
+            response.on('data', (data) => {
+                if (data) {
+                    str += data;
+                }
+            });
+            response.on('end', () => {
+                byZipCodeTable = JSON.parse(str.replace('undefined', '')).features.map(f => {
+                    return [
+                        today.toISOString(),
+                        f.attributes.zip,
+                        f.attributes.frequency
+                    ]
+                });
+                stringify(byZipCodeTable, (err, output) => {
+                    return fs.appendFileSync("byZipCode.csv", output);
+                });
+            });
+        }
+        const req = https.request(options, callback).end();
 
         stringify(byRaceTable, (err, output) => {
             return fs.appendFileSync("byRace.csv", output);

@@ -51,7 +51,7 @@ const https = require('https');
 
         const options = {
             hostname: 'services2.arcgis.com',
-            path: '/xRI3cTw3hPVoEJP0/ArcGIS/rest/services/COVID_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=FID%20ASC&resultOffset=0&resultRecordCount=50&cacheHint=true&quantizationParameters=%7B%22mode%22%3A%22edit%22%7D',
+            path: '/xRI3cTw3hPVoEJP0/ArcGIS/rest/services/Join_COVID_Data_(View)_to_Washtenaw_County_Zip_Codes_(cut)/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&outFields=*&maxRecordCountFactor=2&outSR=102100&resultOffset=0&resultRecordCount=4000&cacheHint=true&quantizationParameters=%7B"mode"%3A"view"%2C"originPosition"%3A"upperLeft"%2C"tolerance"%3A1.0583354500042257%2C"extent"%3A%7B"xmin"%3A-9365768.2999%2C"ymin"%3A5171712.272600003%2C"xmax"%3A-9299563.3116%2C"ymax"%3A5226389.159199998%2C"spatialReference"%3A%7B"wkid"%3A102100%2C"latestWkid"%3A3857%7D%7D%7D',
             method: 'GET'
         }
 

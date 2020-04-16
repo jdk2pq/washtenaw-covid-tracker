@@ -17,3 +17,5 @@ date,sex,percentageOfCases,percentageHospitalized
 2020-04-13T04:00:00.000Z,Male,46%,null
 2020-04-14T04:00:00.000Z,Female,54%,47%
 2020-04-14T04:00:00.000Z,Male,46%,53%
+2020-04-15T04:00:00.000Z,Female,54%,48%
+2020-04-15T04:00:00.000Z,Male,46%,52%

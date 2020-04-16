@@ -43,7 +43,7 @@ const https = require('https');
         });
 
         stringify(byZipCodeTable, (err, output) => {
-            return fs.appendFileSync("byZipCode.csv", output);
+            return fs.appendFileSync("data/byZipCode.csv", output);
         });
 
         // Table was added back around 4/15

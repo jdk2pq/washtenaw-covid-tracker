@@ -8,3 +8,4 @@ date,totalCases,totalHospitalizations,percentageHospitalized,percentageCasesAdmi
 2020-04-11T04:00:00.000Z,689,202,29%,null,18,162
 2020-04-13T04:00:00.000Z,736,207,28%,null,18,191
 2020-04-14T04:00:00.000Z,769,212,28%,7%,21,224
+2020-04-15T04:00:00.000Z,803,226,28%,7%,23,297

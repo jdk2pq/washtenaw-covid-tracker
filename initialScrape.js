@@ -22,23 +22,23 @@ const fs = require('fs');
     }, today);
 
     stringify(totalCasesTable, (err, output) => {
-        return fs.writeFileSync("totalCases.csv", output);
+        return fs.writeFileSync("data/totalCases.csv", output);
     });
 
     stringify(byAgeGroupTable, (err, output) => {
-        return fs.writeFileSync("byAgeGroup.csv", output);
+        return fs.writeFileSync("data/byAgeGroup.csv", output);
     });
 
     stringify(bySexTable, (err, output) => {
-        return fs.writeFileSync("bySex.csv", output);
+        return fs.writeFileSync("data/bySex.csv", output);
     });
 
     stringify(byZipCodeTable, (err, output) => {
-        return fs.writeFileSync("byZipCode.csv", output);
+        return fs.writeFileSync("data/byZipCode.csv", output);
     });
 
     stringify(byRaceTable, (err, output) => {
-        return fs.writeFileSync("byRace.csv", output);
+        return fs.writeFileSync("data/byRace.csv", output);
     });
     await browser.close();
 })();

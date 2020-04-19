@@ -67,3 +67,9 @@ date,racialGroup,percentageOfHospitalized,percentOfCountyPopulation
 2020-04-17T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,1%,0.1%
 2020-04-17T04:00:00.000Z,White,47%,74.1%
 2020-04-17T04:00:00.000Z,Unknown,3%,
+2020-04-18T04:00:00.000Z,American Indian or Alaska Native,0%,0.4%
+2020-04-18T04:00:00.000Z,Asian,4%,9.7%
+2020-04-18T04:00:00.000Z,Black or African American,45%,12.3%
+2020-04-18T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,1%,0.1%
+2020-04-18T04:00:00.000Z,White,48%,74.1%
+2020-04-18T04:00:00.000Z,Unknown,3%,

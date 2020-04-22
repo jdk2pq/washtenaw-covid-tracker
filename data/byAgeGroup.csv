@@ -1,4 +1,4 @@
-date,ageGroup,percentageOfCases,percentageHospitalized
+date,ageGroup,percentageOfCases,percentageHospitalized,percentageOfDeaths
 2020-04-05T20:54:57.732Z,0 - 17 years,2%,null
 2020-04-05T20:54:57.732Z,18 - 24 years,11%,null
 2020-04-05T20:54:57.732Z,25 - 39 years,26%,null
@@ -111,3 +111,11 @@ date,ageGroup,percentageOfCases,percentageHospitalized
 2020-04-20T04:00:00.000Z,60- 69 years,15%,22%
 2020-04-20T04:00:00.000Z,70 - 79 years,10%,19%
 2020-04-20T04:00:00.000Z,80+ years,10%,25%
+2020-04-21T04:00:00.000Z,0 - 17 years,1%,0%,0%
+2020-04-21T04:00:00.000Z,18 - 24 years,9%,<1%,0%
+2020-04-21T04:00:00.000Z,25 - 39 years,21%,6%,0%
+2020-04-21T04:00:00.000Z,40 - 49 years,14%,9%,3%
+2020-04-21T04:00:00.000Z,50 - 59 years,18%,17%,3%
+2020-04-21T04:00:00.000Z,60- 69 years,15%,22%,16%
+2020-04-21T04:00:00.000Z,70 - 79 years,10%,20%,26%
+2020-04-21T04:00:00.000Z,80+ years,10%,25%,53%

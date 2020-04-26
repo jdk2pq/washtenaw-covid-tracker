@@ -111,3 +111,11 @@ date,racialGroup,percentageOfHospitalized,percentageOfDeaths,percentOfCountyPopu
 2020-04-24T04:00:00.000Z,Unknown,6%,3%,0%,
 2020-04-24T04:00:00.000Z,,,,,
 2020-04-24T04:00:00.000Z,Hispanic or Latino (all races),3%,2%,4%,4.8%
+2020-04-25T04:00:00.000Z,Am. Indian or Alaska Native,<1%,0%,0%,0.4%
+2020-04-25T04:00:00.000Z,Asian,4%,4%,2%,9.7%
+2020-04-25T04:00:00.000Z,Black or African American,36%,43%,26%,12.3%
+2020-04-25T04:00:00.000Z,Native Hawaiian or Pac. Islander,<1%,<1%,4%,0.1%
+2020-04-25T04:00:00.000Z,White,54%,50%,68%,74.1%
+2020-04-25T04:00:00.000Z,Unknown,6%,2%,0%,
+2020-04-25T04:00:00.000Z,,,,,
+2020-04-25T04:00:00.000Z,Hispanic or Latino (all races),3%,2%,4%,4.8%

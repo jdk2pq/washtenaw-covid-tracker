@@ -28,3 +28,6 @@ date,totalCases,totalHospitalizations,percentageHospitalized,percentageCasesAdmi
 2020-04-28T04:00:00.000Z,Laboratory Confirmed Cases,1033,294,28%,7%,56,515
 2020-04-28T04:00:00.000Z,Probable Cases (Symptomatic individual who was a close contact to a confirmed COVID case but was not tested),220,0,0%,0%,3,152
 2020-04-28T04:00:00.000Z,Confirmed and Probable Cases,1253,294,23%,6%,59,667
+2020-04-29T04:00:00.000Z,Laboratory Confirmed Cases,1050,296,28%,8%,59,598
+2020-04-29T04:00:00.000Z,Probable Cases (Symptomatic individual who was a close contact to a confirmed COVID case but was not tested),220,0,0%,0%,3,152
+2020-04-29T04:00:00.000Z,Confirmed and Probable Cases,1270,296,23%,6%,62,750

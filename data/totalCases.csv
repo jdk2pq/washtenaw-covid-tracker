@@ -1,21 +1,21 @@
-date,totalCases,totalHospitalizations,percentageHospitalized,percentageCasesAdmittedToIcu,totalDeaths,totalRecovered
-2020-04-05T20:54:57.732Z,521,138,null,null,8,69
-2020-04-06T04:00:00.000Z,543,149,null,null,10,82
-2020-04-07T04:00:00.000Z,561,160,null,null,12,98
-2020-04-08T04:00:00.000Z,603,173,null,null,12,113
-2020-04-09T04:00:00.000Z,641,186,29%,null,15,149
-2020-04-10T04:00:00.000Z,667,195,29%,null,15,149
-2020-04-11T04:00:00.000Z,689,202,29%,null,18,162
-2020-04-13T04:00:00.000Z,736,207,28%,null,18,191
-2020-04-14T04:00:00.000Z,769,212,28%,7%,21,224
-2020-04-15T04:00:00.000Z,803,226,28%,7%,23,297
-2020-04-16T04:00:00.000Z,827,232,28%,7%,25,318
-2020-04-17T04:00:00.000Z,858,238,28%,7%,26,336
-2020-04-18T04:00:00.000Z,871,249,29%,7%,29,360
-2020-04-20T04:00:00.000Z,881,255,29%,7%,33,395
-2020-04-21T04:00:00.000Z,900,265,29%,7%,38,412
-2020-04-22T04:00:00.000Z,911,269,30%,8%,41,425
-2020-04-23T04:00:00.000Z,966,274,28%,7%,42,447
+date,group,totalCases,totalHospitalizations,percentageHospitalized,percentageCasesAdmittedToIcu,totalDeaths,totalRecovered
+2020-04-05T20:54:57.732Z,Laboratory Confirmed Cases,521,138,null,null,8,69
+2020-04-06T04:00:00.000Z,Laboratory Confirmed Cases,543,149,null,null,10,82
+2020-04-07T04:00:00.000Z,Laboratory Confirmed Cases,561,160,null,null,12,98
+2020-04-08T04:00:00.000Z,Laboratory Confirmed Cases,603,173,null,null,12,113
+2020-04-09T04:00:00.000Z,Laboratory Confirmed Cases,641,186,29%,null,15,149
+2020-04-10T04:00:00.000Z,Laboratory Confirmed Cases,667,195,29%,null,15,149
+2020-04-11T04:00:00.000Z,Laboratory Confirmed Cases,689,202,29%,null,18,162
+2020-04-13T04:00:00.000Z,Laboratory Confirmed Cases,736,207,28%,null,18,191
+2020-04-14T04:00:00.000Z,Laboratory Confirmed Cases,769,212,28%,7%,21,224
+2020-04-15T04:00:00.000Z,Laboratory Confirmed Cases,803,226,28%,7%,23,297
+2020-04-16T04:00:00.000Z,Laboratory Confirmed Cases,827,232,28%,7%,25,318
+2020-04-17T04:00:00.000Z,Laboratory Confirmed Cases,858,238,28%,7%,26,336
+2020-04-18T04:00:00.000Z,Laboratory Confirmed Cases,871,249,29%,7%,29,360
+2020-04-20T04:00:00.000Z,Laboratory Confirmed Cases,881,255,29%,7%,33,395
+2020-04-21T04:00:00.000Z,Laboratory Confirmed Cases,900,265,29%,7%,38,412
+2020-04-22T04:00:00.000Z,Laboratory Confirmed Cases,911,269,30%,8%,41,425
+2020-04-23T04:00:00.000Z,Laboratory Confirmed Cases,966,274,28%,7%,42,447
 2020-04-24T04:00:00.000Z,Laboratory Confirmed Cases,974,278,29%,7%,47,460
 2020-04-24T04:00:00.000Z,Probable Cases (Symptomatic individual who was a close contact to a confirmed COVID case but was not tested),213,2,1%,0%,3,133
 2020-04-24T04:00:00.000Z,Confirmed and Probable Cases,1187,280,24%,6%,50,593

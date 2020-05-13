@@ -4,63 +4,63 @@ date,racialGroup,percentageOfCases,percentageOfHospitalized,percentageOfDeaths,p
 2020-04-05T20:54:57.732Z,Black or African American,null,51%,null,12.3%
 2020-04-05T20:54:57.732Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-05T20:54:57.732Z,White,null,41%,null,74.1%
-2020-04-05T20:54:57.732Z,Unknown,null,3%
+2020-04-05T20:54:57.732Z,Unknown,null,3%,null,null
 2020-04-06T04:00:00.000Z,American Indian or Alaska Native,null,1%,null,0.4%
 2020-04-06T04:00:00.000Z,Asian,null,3%,null,9.7%
 2020-04-06T04:00:00.000Z,Black or African American,null,49%,null,12.3%
 2020-04-06T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-06T04:00:00.000Z,White,null,41%,null,74.1%
-2020-04-06T04:00:00.000Z,Unknown,null,4%,
+2020-04-06T04:00:00.000Z,Unknown,null,4%,null,null
 2020-04-07T04:00:00.000Z,American Indian or Alaska Native,null,1%,null,0.4%
 2020-04-07T04:00:00.000Z,Asian,null,3%,null,9.7%
 2020-04-07T04:00:00.000Z,Black or African American,null,41%,null,12.3%
 2020-04-07T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-07T04:00:00.000Z,White,null,36%,null,74.1%
-2020-04-07T04:00:00.000Z,Unknown,null,3%,
+2020-04-07T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-08T04:00:00.000Z,American Indian or Alaska Native,null,1%,null,0.4%
 2020-04-08T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-08T04:00:00.000Z,Black or African American,null,49%,null,12.3%
 2020-04-08T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-08T04:00:00.000Z,White,null,43%,null,74.1%
-2020-04-08T04:00:00.000Z,Unknown,null,3%,
+2020-04-08T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-09T04:00:00.000Z,American Indian or Alaska Native,null,1%,null,0.4%
 2020-04-09T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-09T04:00:00.000Z,Black or African American,null,48%,null,12.3%
 2020-04-09T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-09T04:00:00.000Z,White,null,43%,null,74.1%
-2020-04-09T04:00:00.000Z,Unknown,null,3%,
+2020-04-09T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-10T04:00:00.000Z,American Indian or Alaska Native,null,1%,null,0.4%
 2020-04-10T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-10T04:00:00.000Z,Black or African American,null,48%,null,12.3%
 2020-04-10T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-10T04:00:00.000Z,White,null,43%,null,74.1%
-2020-04-10T04:00:00.000Z,Unknown,null,4%,
+2020-04-10T04:00:00.000Z,Unknown,null,4%,null,null
 2020-04-11T04:00:00.000Z,Asian,null,5%,null,9.7%
 2020-04-11T04:00:00.000Z,Black or African American,null,48%,null,12.3%
 2020-04-11T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-11T04:00:00.000Z,White,null,43%,null,74.1%
-2020-04-11T04:00:00.000Z,Unknown,null,3%,
+2020-04-11T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-13T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-13T04:00:00.000Z,Black or African American,null,49%,null,12.3%
 2020-04-13T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-13T04:00:00.000Z,White,null,43%,null,74.1%
-2020-04-13T04:00:00.000Z,Unknown,null,3%,
+2020-04-13T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-14T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-14T04:00:00.000Z,Black or African American,null,47%,null,12.3%
 2020-04-14T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-14T04:00:00.000Z,White,null,45%,null,74.1%
-2020-04-14T04:00:00.000Z,Unknown,null,3%,
+2020-04-14T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-15T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-15T04:00:00.000Z,Black or African American,null,46%,null,12.3%
 2020-04-15T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-15T04:00:00.000Z,White,null,46%,null,74.1%
-2020-04-15T04:00:00.000Z,Unknown,null,3%,
+2020-04-15T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-16T04:00:00.000Z,America Indian or Alaska Native,null,0%,null,0.4%
 2020-04-16T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-16T04:00:00.000Z,Black or African American,null,46%,null,12.3%
 2020-04-16T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-16T04:00:00.000Z,White,null,47%,null,74.1%
-2020-04-16T04:00:00.000Z,Unknown,null,3%,
+2020-04-16T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-17T04:00:00.000Z,America Indian or Alaska Native,null,0%,null,0.4%
 2020-04-17T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-17T04:00:00.000Z,Black or African American,null,45%,null,12.3%
@@ -72,7 +72,7 @@ date,racialGroup,percentageOfCases,percentageOfHospitalized,percentageOfDeaths,p
 2020-04-18T04:00:00.000Z,Black or African American,null,45%,null,12.3%
 2020-04-18T04:00:00.000Z,Native Hawaiian or Other Pacific Islander,null,1%,null,0.1%
 2020-04-18T04:00:00.000Z,White,null,48%,null,74.1%
-2020-04-18T04:00:00.000Z,Unknown,null,3%,
+2020-04-18T04:00:00.000Z,Unknown,null,3%,null,null
 2020-04-20T04:00:00.000Z,Am. Indian or Alaska Native,null,0%,null,0.4%
 2020-04-20T04:00:00.000Z,Asian,null,4%,null,9.7%
 2020-04-20T04:00:00.000Z,Black or African American,null,45%,null,12.3%
@@ -84,7 +84,7 @@ date,racialGroup,percentageOfCases,percentageOfHospitalized,percentageOfDeaths,p
 2020-04-21T04:00:00.000Z,Black or African American,37%,45%,24%,12.3%
 2020-04-21T04:00:00.000Z,Native Hawaiian or Pac. Islander,<1%,<1%,5%,0.1%
 2020-04-21T04:00:00.000Z,White,53%,48%,71%,74.1%
-2020-04-21T04:00:00.000Z,Unknown,6%,3%,0%,
+2020-04-21T04:00:00.000Z,Unknown,6%,3%,0%,null
 2020-04-21T04:00:00.000Z,,,,,
 2020-04-21T04:00:00.000Z,Hispanic or Latino (all races),3%,2%,5%,4.8%
 2020-04-22T04:00:00.000Z,Am. Indian or Alaska Native,<1%,0%,0%,0.4%

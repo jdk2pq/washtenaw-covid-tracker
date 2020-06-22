@@ -139,3 +139,6 @@ date,group,totalCases,totalHospitalizations,percentageHospitalized,percentageCas
 2020-06-19T04:00:00.000Z,Laboratory Confirmed Cases,1399,375,27%,8%,103,1231 (88%)
 2020-06-19T04:00:00.000Z,Probable Cases (updated Fridays only),316,3,1%,0%,3,303 (96%)
 2020-06-19T04:00:00.000Z,Confirmed and Probable Cases,1715,378,22%,6%,106,1534 (89%)
+2020-06-22T04:00:00.000Z,Laboratory Confirmed Cases,1415,377,27%,8%,103,1235 (87%)
+2020-06-22T04:00:00.000Z,Probable Cases (updated Fridays only),316,3,1%,0%,3,303 (96%)
+2020-06-22T04:00:00.000Z,Confirmed and Probable Cases,1731,380,22%,6%,106,1538 (89%)

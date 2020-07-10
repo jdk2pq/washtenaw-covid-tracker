@@ -527,3 +527,11 @@ date,racialGroup,percentageOfCases,percentageOfHospitalized,percentageOfDeaths,p
 2020-07-08T04:00:00.000Z,Unknown,5%,2%,0%,
 2020-07-08T04:00:00.000Z,,,,,
 2020-07-08T04:00:00.000Z,Hispanic or Latino (all races),4%,2%,2%,4.8%
+2020-07-09T04:00:00.000Z,Am. Indian or Alaska Native,<1%,0%,0%,0.4%
+2020-07-09T04:00:00.000Z,Asian,3%,4%,1%,9.7%
+2020-07-09T04:00:00.000Z,Black or African American,33%,41%,30%,12.3%
+2020-07-09T04:00:00.000Z,Native Hawaiian or Pac. Islander,<1%,<1%,2%,0.1%
+2020-07-09T04:00:00.000Z,White,58%,53%,67%,74.1%
+2020-07-09T04:00:00.000Z,Unknown,5%,2%,0%,
+2020-07-09T04:00:00.000Z,,,,,
+2020-07-09T04:00:00.000Z,Hispanic or Latino (all races),4%,2%,2%,4.8%

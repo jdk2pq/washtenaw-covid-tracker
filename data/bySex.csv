@@ -163,3 +163,5 @@ date,sex,percentageOfCases,percentageHospitalized,percentageOfDeaths
 2020-07-23T04:00:00.000Z,Male,46%,51%,53%
 2020-07-24T04:00:00.000Z,Female,54%,49%,47%
 2020-07-24T04:00:00.000Z,Male,46%,51%,53%
+2020-07-27T04:00:00.000Z,Female,54%,49%,47%
+2020-07-27T04:00:00.000Z,Male,46%,51%,53%

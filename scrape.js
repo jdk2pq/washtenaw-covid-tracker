@@ -14,7 +14,9 @@ const https = require('https');
 
     const [
         shouldUpdate,
+        twoWeekSnapshotTable,
         totalCasesTable,
+        emptyTable,
         byAgeGroupTable,
         bySexTable,
         byRaceTable,
@@ -30,6 +32,10 @@ const https = require('https');
     }, today, todayStr);
 
     if (shouldUpdate) {
+        stringify(twoWeekSnapshotTable, (err, output) => {
+            return fs.appendFileSync("data/twoWeekSnapshot.csv", output);
+        });
+
         stringify(totalCasesTable, (err, output) => {
             return fs.appendFileSync("data/totalCases.csv", output);
         });

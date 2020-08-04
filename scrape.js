@@ -16,7 +16,6 @@ const https = require('https');
         shouldUpdate,
         twoWeekSnapshotTable,
         totalCasesTable,
-        emptyTable,
         byAgeGroupTable,
         bySexTable,
         byRaceTable,

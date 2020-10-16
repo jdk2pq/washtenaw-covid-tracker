@@ -21,7 +21,7 @@ const https = require('https');
         byRaceTable,
         byZipCodeTable
     ] = await page.evaluate((today, todayStr) => {
-        const updated = Array.from(document.querySelectorAll('.fr-view p')).find(p => p.textContent.includes('UPDATED')).textContent.trim().includes(`${todayStr}`)
+        const updated = Array.from(document.querySelectorAll('.fr-view p')).find(p => p.textContent.toLowerCase().includes('updated:')).textContent.trim().includes(`${todayStr}`)
 
         return [
             updated,

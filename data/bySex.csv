@@ -347,3 +347,5 @@ date,sex,percentageOfCases,percentageHospitalized,percentageOfDeaths
 2020-12-07T05:00:00.000Z,Male,48%,47%,47%
 2020-12-08T05:00:00.000Z,Female,52%,53%,53%
 2020-12-08T05:00:00.000Z,Male,48%,47%,47%
+2020-12-09T05:00:00.000Z,Female,52%,53%,53%
+2020-12-09T05:00:00.000Z,Male,48%,47%,47%

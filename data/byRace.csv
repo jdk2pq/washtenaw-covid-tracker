@@ -1402,3 +1402,10 @@ date,racialGroup,percentageOfCases,percentageOfHospitalized,percentageOfDeaths,p
 2020-12-28T05:00:00.000Z,White,73%,63%,69%,74.1%
 2020-12-28T05:00:00.000Z,Unknown/Other race,6%,4%,3%,
 2020-12-28T05:00:00.000Z,Hispanic or Latino (all races),7%,4%,3%,4.8%
+2020-12-29T05:00:00.000Z,Am. Indian or Alaska Native,0%,0%,0%,0.4%
+2020-12-29T05:00:00.000Z,Asian,5%,3%,1%,9.7%
+2020-12-29T05:00:00.000Z,Black or African American,16%,30%,26%,12.3%
+2020-12-29T05:00:00.000Z,Native Hawaiian or Pac. Islander,0%,0%,1%,0.1%
+2020-12-29T05:00:00.000Z,White,73%,63%,69%,74.1%
+2020-12-29T05:00:00.000Z,Unknown/Other race,6%,4%,3%,
+2020-12-29T05:00:00.000Z,Hispanic or Latino (all races),7%,4%,3%,4.8%

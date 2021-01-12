@@ -1458,3 +1458,10 @@ date,racialGroup,percentageOfCases,percentageOfHospitalized,percentageOfDeaths,p
 2021-01-11T05:00:00.000Z,White,66%,64%,72%,74.1%
 2021-01-11T05:00:00.000Z,Unknown/Other race,16%,4%,3%,
 2021-01-11T05:00:00.000Z,Hispanic or Latino (all races),6%,4%,3%,4.8%
+2021-01-12T05:00:00.000Z,Am. Indian or Alaska Native,0%,0%,0%,0.4%
+2021-01-12T05:00:00.000Z,Asian,4%,3%,1%,9.7%
+2021-01-12T05:00:00.000Z,Black or African American,14%,28%,24%,12.3%
+2021-01-12T05:00:00.000Z,Native Hawaiian or Pac. Islander,0%,0%,1%,0.1%
+2021-01-12T05:00:00.000Z,White,66%,64%,72%,74.1%
+2021-01-12T05:00:00.000Z,Unknown/Other race,16%,4%,3%,
+2021-01-12T05:00:00.000Z,Hispanic or Latino (all races),6%,4%,3%,4.8%

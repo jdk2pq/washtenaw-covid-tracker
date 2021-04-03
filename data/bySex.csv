@@ -493,3 +493,5 @@ date,sex,percentageOfCases,percentageHospitalized,percentageOfDeaths
 2021-03-31T04:00:00.000Z,Male,49%,51%,56%
 2021-04-01T04:00:00.000Z,Female,51%,49%,44%
 2021-04-01T04:00:00.000Z,Male,49%,51%,56%
+2021-04-02T04:00:00.000Z,Female,51%,49%,44%
+2021-04-02T04:00:00.000Z,Male,49%,51%,56%

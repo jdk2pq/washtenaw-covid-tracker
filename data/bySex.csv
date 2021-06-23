@@ -603,3 +603,5 @@ date,sex,percentageOfCases,percentageHospitalized,percentageOfDeaths
 2021-06-21T04:00:00.000Z,Male,49%,50%,55%
 2021-06-22T04:00:00.000Z,Female,51%,50%,45%
 2021-06-22T04:00:00.000Z,Male,49%,50%,55%
+2021-06-23T04:00:00.000Z,Female,51%,50%,45%
+2021-06-23T04:00:00.000Z,Male,49%,50%,55%

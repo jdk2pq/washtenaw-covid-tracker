@@ -1216,3 +1216,6 @@ date,group,totalCases,totalHospitalizations,percentageHospitalized,percentageCas
 2021-12-17T05:00:00.000Z,Laboratory Confirmed Cases,37753,2199,6%,1.0%,365
 2021-12-17T05:00:00.000Z,Probable Cases (updated Thurs only),4848,23,0.5%,0%,15
 2021-12-17T05:00:00.000Z,Confirmed and Probable Cases,42601,2222,5%,1%,380
+2021-12-20T05:00:00.000Z,Laboratory Confirmed Cases,38193,2226,6%,1.0%,367
+2021-12-20T05:00:00.000Z,Probable Cases (updated Thurs only),4848,23,0.5%,0%,15
+2021-12-20T05:00:00.000Z,Confirmed and Probable Cases,43041,2249,5%,1%,382

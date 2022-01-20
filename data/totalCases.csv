@@ -1270,3 +1270,6 @@ date,group,totalCases,totalHospitalizations,percentageHospitalized,percentageCas
 2022-01-18T05:00:00.000Z,Laboratory Confirmed Cases,55293,2586,5%,0.7%,424
 2022-01-18T05:00:00.000Z,Probable Cases (updated Thurs only),6654,32,0.5%,0%,16
 2022-01-18T05:00:00.000Z,Confirmed and Probable Cases,61947,2618,4%,0.6%,436
+2022-01-19T05:00:00.000Z,Laboratory Confirmed Cases,55805,2586,5%,0.7%,424
+2022-01-19T05:00:00.000Z,Probable Cases (updated Thurs only),6654,32,0.5%,0%,16
+2022-01-19T05:00:00.000Z,Confirmed and Probable Cases,62459,2618,4%,0.6%,440

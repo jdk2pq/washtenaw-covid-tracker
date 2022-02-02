@@ -7,7 +7,7 @@ const https = require('https');
 (async () => {
     const today = moment();
     const todayStr = today.startOf('day').format('MMMM D, YYYY')
-
+    const todayStrShort = today.startOf('day').format('MMM D, YYYY')
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto('https://www.washtenaw.org/3108/Cases');
@@ -20,15 +20,16 @@ const https = require('https');
         bySexTable,
         byRaceTable,
         byZipCodeTable
-    ] = await page.evaluate((today, todayStr) => {
-        const updated = Array.from(document.querySelectorAll('.fr-view p')).find(p => p.textContent.toLowerCase().includes('updated:')).textContent.trim().includes(`${todayStr}`)
+    ] = await page.evaluate((today, todayStr, todayStrShort) => {
+	const lastUpdatedDate = Array.from(document.querySelectorAll('.fr-view p')).find(p => p.textContent.toLowerCase().includes('updated:')).textContent.trim()
+        const updated = lastUpdatedDate.includes(todayStr) || lastUpdatedDate.includes(todayStrShort)
 
         return [
             updated,
             ...Array.from(document.querySelectorAll('.widgetBody table')).map((t) => {
                 return Array.from(t.tBodies[0].rows).map(r => [today, ...Array.from(r.cells).map((c) => c.textContent.trim())])
             })];
-    }, today, todayStr);
+    }, today, todayStr, todayStrShort);
 
     if (shouldUpdate) {
         stringify(twoWeekSnapshotTable, (err, output) => {

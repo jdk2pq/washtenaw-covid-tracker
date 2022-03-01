@@ -3299,3 +3299,10 @@ date,racialGroup,percentageOfCases,percentageOfHospitalized,percentageOfDeaths,p
 2022-02-25T05:00:00.000Z,White,60%,65%,72%,74.1%
 2022-02-25T05:00:00.000Z,Unknown/Other race,22%,5%,4.4%,
 2022-02-25T05:00:00.000Z,Hispanic or Latino (all races),4%,4%,3.6%,4.8%
+2022-02-28T05:00:00.000Z,Am. Indian or Alaska Native,0.2%,0.4%,0.6%,0.4%
+2022-02-28T05:00:00.000Z,Asian,5%,3%,1.7%,9.7%
+2022-02-28T05:00:00.000Z,Black or African American,13%,26%,21%,12.3%
+2022-02-28T05:00:00.000Z,Native Hawaiian or Pac. Islander,0.1%,0.3%,0.4%,0.1%
+2022-02-28T05:00:00.000Z,White,60%,65%,72%,74.1%
+2022-02-28T05:00:00.000Z,Unknown/Other race,22%,5%,4.4%,
+2022-02-28T05:00:00.000Z,Hispanic or Latino (all races),4%,4%,3.6%,4.8%

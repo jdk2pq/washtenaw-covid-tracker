@@ -1049,3 +1049,5 @@ date,sex,percentageOfCases,percentageHospitalized,percentageOfDeaths
 2022-06-09T04:00:00.000Z,Male,47%,50%,58%
 2022-06-10T04:00:00.000Z,Female,53%,50%,42%
 2022-06-10T04:00:00.000Z,Male,47%,50%,58%
+2022-06-13T04:00:00.000Z,Female,53%,50%,42%
+2022-06-13T04:00:00.000Z,Male,47%,50%,58%

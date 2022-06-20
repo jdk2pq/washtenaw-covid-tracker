@@ -1543,3 +1543,12 @@ date,group,totalCases,totalHospitalizations,percentageHospitalized,percentageCas
 2022-06-13T04:00:00.000Z,Laboratory Confirmed Cases,75392,3075,4%,0.6%,499
 2022-06-13T04:00:00.000Z,Probable Cases (Updated Mon and Thur),13431,29,0.2%,0%,24
 2022-06-13T04:00:00.000Z,Confirmed and Probable Cases,88823,3104,4%,0.5%,523
+2022-06-15T04:00:00.000Z,Laboratory Confirmed Cases,75594,3075,4%,0.6%,499
+2022-06-15T04:00:00.000Z,Probable Cases (Updated Mon and Thur),13459,29,0.2%,0%,24
+2022-06-15T04:00:00.000Z,Confirmed and Probable Cases,89053,3104,4%,0.5%,523
+2022-06-16T04:00:00.000Z,Laboratory Confirmed Cases,75686,3078,4%,0.6%,500
+2022-06-16T04:00:00.000Z,Probable Cases (Updated Mon and Thur),13595,29,0.2%,0%,24
+2022-06-16T04:00:00.000Z,Confirmed and Probable Cases,89281,3107,3%,0.5%,524
+2022-06-17T04:00:00.000Z,Laboratory Confirmed Cases,75736,3078,4%,0.6%,500
+2022-06-17T04:00:00.000Z,Probable Cases (Updated Mon and Thur),13595,29,0.2%,0%,24
+2022-06-17T04:00:00.000Z,Confirmed and Probable Cases,89331,3107,3%,0.5%,524

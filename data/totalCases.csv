@@ -1633,3 +1633,6 @@ date,group,totalCases,totalHospitalizations,percentageHospitalized,percentageCas
 2022-08-03T04:00:00.000Z,Laboratory Confirmed Cases,80385,3251,4%,0.6%,518
 2022-08-03T04:00:00.000Z,Probable Cases (Updated Mon and Thur),14302,31,0.2%,0%,25
 2022-08-03T04:00:00.000Z,Confirmed and Probable Cases,94687,3282,3%,0.5%,543
+2022-08-04T04:00:00.000Z,Laboratory Confirmed Cases,80414,3263,4%,0.6%,520
+2022-08-04T04:00:00.000Z,Probable Cases (Updated Mon and Thur),14378,31,0.2%,0%,25
+2022-08-04T04:00:00.000Z,Confirmed and Probable Cases,94792,3294,3%,0.5%,545
